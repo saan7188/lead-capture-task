@@ -10,7 +10,7 @@ I tried to build a simple lead capture page with form, list of leads, and webhoo
 
 - Form with all fields they asked (Name*, Email*, Phone*, Company, Message, Source dropdown)
 - Basic validation (required fields + phone should be numbers only)
-- Leads saved in JSON Server (db.json) — I chose Option B because it's simple
+- Leads saved in JSON Server (db.json) 
 - Leads shown in table below form (auto refresh after submit)
 - Added dark mode toggle (bonus)
 - Added search box and source filter in table (bonus)
